@@ -15,6 +15,7 @@ function App() {
 
   return (
     <div className="todos">
+			<h2 className="todos__title">A List of Things To Do</h2>
       <TodoList />
 			<TodoCreate />
     </div>

@@ -1,14 +1,6 @@
 {
   "todos": [
     {
-      "id": 1,
-      "text": "This is a todo item (1)"
-    },
-    {
-      "id": 2,
-      "text": "This is a todo item (2)"
-    },
-    {
       "id": 3,
       "text": "This is a todo item (3)"
     },
@@ -17,8 +9,16 @@
       "text": "This is a todo item (4)"
     },
     {
-      "id": 5,
-      "text": "This is a todo item (5)"
+      "text": "This is a todo item (5)",
+      "id": 5
+    },
+    {
+      "text": "This is just s test",
+      "id": 6
+    },
+    {
+      "text": "This is another test",
+      "id": 7
     }
   ]
 }

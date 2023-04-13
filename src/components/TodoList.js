@@ -9,9 +9,10 @@ function TodoList() {
 	})
 
 	return(
-		<div className="todo__list">
-			<p>Todo List</p>
-			<div className="todo_list-items">{renderedTodos}</div>
+		<div className="todos__list">
+			<div className="todos__list-items">
+				{renderedTodos}
+			</div>
 		</div>
 	)
 }
